@@ -67,9 +67,11 @@ margin-bottom: 10px;
 
 .big-image{
     width: 681px;
-    height: 590px;
+    height: 635px;
     margin-top: -145px;
+    border-radius: 29px;
 }
+
 .generator-box{
 width: 687px;
 position: relative;
