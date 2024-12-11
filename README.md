@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 # Safe 
 Safe - Customisable Password Generator
-
----
 
 ## Password Generator
 
