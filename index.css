@@ -40,6 +40,13 @@
     /* width: 100%; */
  }
 
+ .icon-images{
+   left: 43px;
+ }
+
+ /* .group-child{
+    width: 40%;
+ } */
 
 }
 
@@ -189,7 +196,7 @@ padding: 37px;
     border-radius: 7px;
     background-color: #292828;
     box-shadow: 0px 4px 10px rgb(0 0 0 / 30%), 0px 2px 5px rgb(0 0 0 / 10%);
-    width: 258px;
+    max-width: 258px;
     height: 42px;
     cursor: pointer;
 }
