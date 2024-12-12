@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-# Passwordify
-Passwordify - Customisable Password Generator
 
-Sure! Here's a concise GitHub description for your password generator project:
-
----
+# Safe 
+Safe - Customisable Password Generator
 
 ## Password Generator
 
