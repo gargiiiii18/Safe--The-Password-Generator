@@ -48,6 +48,13 @@
     width: 40%;
  } */
 
+ .logo-image img{
+    height: 126px;
+    width: 151px;
+}
+
+
+
 }
 
 
@@ -86,8 +93,10 @@ body{
 
 .logo-image img{
     position: relative;
-    top: -38px;
+    top: -13px;
     left: -38px;
+    max-height: 170px;
+    max-width: 200px;   
 }
 
 .nav-text1{
